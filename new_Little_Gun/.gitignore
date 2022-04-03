@@ -1,0 +1,14 @@
+*
+!*/
+!*.c
+!*.h
+!*.s
+!*.cpp
+!*.lib
+!*.md
+Listings
+Objects
+!*.uvprojx
+!.gitignore
+!README.txt
+JLinkLog.txt
